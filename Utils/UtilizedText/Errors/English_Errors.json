@@ -1,0 +1,34 @@
+{
+  "BackendErrors": {
+    "errUnauth": "Unauthorized",
+    "err000": "A system error has occurred. Kindly report the issue to the admin to check the logs for more information.",
+    "err1": "User not found ",
+    "err5": "Authentication failed",
+    "err8": "Email cannot be empty",
+    "err35": "The keys and filters for retrieving the requested list are required.",
+    "err39": "Invalid email address.",
+    "err53": "User trying to modify was not found ",
+    "err84": "Creating a User failed due to a database error. ",
+    "err85": "Updating a User failed due to a database error. ",
+    "err86": "Deleting a User failed due to a database error. ",
+    "err87": "The entered Username already exists .",
+    "err88": "The entered MicroUserID already exists .",
+    "err89": "User is not activated, kindly use the activation email to activate it. If you did not receive the email or if it is expired, contact your System Administrator to send you a new Activation email.",
+    "err116": "First Name is required ",
+    "err117": "Last Name is required ",
+    "err119": "Phone Number is required ",
+    "err122": "Username is required ",
+    "err127": "Switch color is required for Assembly, Switch, Harness, and Wall Plate Category ",
+    "err149": "System variables not found. ",
+    "err334": "List of Log records to be deleted is required to complete the process. ",
+    "err335": "Log record was not found. ",
+    "err336": "Deleting a Log record failed due to a database error. ",
+    "err337": "List of Log detail records to be deleted is required to complete the process. ",
+    "err338": "Log detail record was not found. ",
+    "err339": "Deleting a Log detail record failed due to a database error. ",
+    "err340": "You used an expired activation email. Please contact your System Administrator to send you a new Activation Email. ",
+    "err350": "Please select a File to upload it. The received value was empty .",
+    "err367": "User's email is already used for another user. Please choose a different email. "
+  }
+}
+
